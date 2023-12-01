@@ -1,0 +1,36 @@
+nav {
+    background-color: #e4f1c5; /* Navbar background color */
+    color: rgb(16, 8, 8); /* Text color */
+    
+    display: flex;
+}
+
+.navbar-brand {
+    font-size: 24px; /* Adjust font size of the brand/logo */
+    letter-spacing: 2px;
+    text-align: left;
+    float:left;
+    padding-left: 3%;;
+    padding-right:24%;
+    margin-left:10px;
+    position: left;
+    border-radius: 100px;
+}
+
+.nav-link {
+    color: rgb(255, 255, 255); /* Change link text color */
+    padding-right: 20px; /* Adjust the margin as needed */
+}
+
+
+/* Add hover effect for links */
+.nav-link:hover {
+    color: #7fbecf;
+    text-decoration: underline;
+
+}
+
+.body{
+    background-color: #e4f1c5;
+}
+
